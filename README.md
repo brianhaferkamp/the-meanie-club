@@ -1,2 +1,2 @@
-# the-meany-club
-A series about The Meany Club
+# The Meanie Club
+A series of stories about The Meanie Club
